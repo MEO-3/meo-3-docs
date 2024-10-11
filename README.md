@@ -1,1 +1,1 @@
-# MEO 3 (Make-It-Online) Project
+# MEO 3 (Make-It-Online) project by MakerViet
